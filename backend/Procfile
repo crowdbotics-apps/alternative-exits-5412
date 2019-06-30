@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT alternative_exits_5412.wsgi:application

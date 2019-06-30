@@ -1,0 +1,3 @@
+rootProject.name = 'alternative_exits_5412'
+
+include ':app'
